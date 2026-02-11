@@ -1,0 +1,6 @@
+camelx_health_metrics.csv
+__pycache__/ml_api.cpython-314.pyc
+__pycache__/
+*.pyc
+*.csv
+*.ipynb
