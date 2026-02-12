@@ -18,8 +18,7 @@ def predict(data: dict):
         data["spo2"],
         data["temperature"],
         data["bp_sys"],
-        data["bp_dia"],
-        data["battery"],
+        data["bp_dia"],        
     ]])
 
     result = model.predict(features)
